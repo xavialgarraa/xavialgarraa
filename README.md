@@ -55,5 +55,5 @@ También me gusta liarme con **proyectos pequeños y útiles**: hace poco hice e
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xavialgarraa&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xavialgarraa&show_icons=true&hide_border=true" alt="GitHub stats" />
 </p>
